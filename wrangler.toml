@@ -4,5 +4,5 @@ compatibility_date = "2024-04-03"
 compatibility_flags = ["nodejs_compat"]
 
 [vars]
-UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
+UUID = "e0cbdf7a-df5b-49be-a55f-9e2c27ba0a40"
 PROXYIP = "nima.nscl.ir"
